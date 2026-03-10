@@ -31,3 +31,5 @@
 
    ```bash
    git clone https://github.com/Minzaxid/zakrivayuschiy-teg-f.git
+
+Сайт опубликован через GitHub Pages
